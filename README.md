@@ -42,7 +42,7 @@ Arquivos incluídos:
 Documentação do código:
 O código contém comentários explicando as etapas de inicialização do Wi-Fi, leitura do sensor, lógica dos LEDs e envio de mensagens MQTT.
 
-🔌 Hardware Utilizado
+Hardware Utilizado
 Componente	Função	Pinos / Observações
 - ESP32	Microcontrolador com Wi-Fi integrado	Alimentado por USB (5V)
 - HC-SR04	Sensor de distância ultrassônico	TRIG = GPIO 32 / ECHO = GPIO 33
@@ -100,3 +100,4 @@ Autores
 - João Victor Santos Lins
 
 - Leandro Mateus de Freitas Santos
+
