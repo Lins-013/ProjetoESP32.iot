@@ -90,14 +90,10 @@ Tópico: joaovictor/projetoagua
 
 Mensagens publicadas: status do sistema e alertas de hidratação.
 
-📸 Diagrama de Montagem
-
-
-Fonte: autoria própria, 2025.
-
 Autores
 
 - João Victor Santos Lins
 
 - Leandro Mateus de Freitas Santos
+
 
